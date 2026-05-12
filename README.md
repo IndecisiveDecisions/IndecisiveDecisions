@@ -3,7 +3,9 @@
 
   <img width="736" height="414" alt="Boi O Boi These Feelies_" src="https://github.com/user-attachments/assets/6a9a0e45-a79e-4d67-9b92-e0d5fd5dc498" > 
 <div align="center">
- 
+
+
+           
   $\color{blue}{"Hey}$ $\color{Red}{Britain,}$
  $\color{blue}{all}$
  $\color{blue}{I}$
@@ -26,18 +28,24 @@ $\color{blue}{now}$ $\color{blue}{on,}$ $\color{blue}{consider}$
 $\color{blue}{Me}$
 $\color{Blue}{INDEPENDENT!"}$
 
-
-
-
-<img width="302" height="285" alt="I love you France 💙🤍♥️" src=https://github.com/IndecisiveDecisions/IndecisiveDecisions/blob/9eba7b73b9716fe777786195e2ab48d75a7d824f/bcb551fbffe4a24f88ecdea89bee392a.jpg />
-
-
-
-
-
-<img width="302" height="285" alt="I love you France 💙🤍♥️" src=https://github.com/IndecisiveDecisions/IndecisiveDecisions/blob/9eba7b73b9716fe777786195e2ab48d75a7d824f/bcb551fbffe4a24f88ecdea89bee392a.jpg />
+_________________________
 
 <div align="center">
+<img width="302" height="285" alt="I love you France 💙🤍♥️" src=https://github.com/IndecisiveDecisions/IndecisiveDecisions/blob/87144bd09e2716f4332ddb02e5a164d54b79aa83/0b061fd1940789cc7a48869021387690.jpg />
+
+$\color{blue}{A}$
+$\color{red}{G}$
+$\color{blue}{H!}$
+_________________________       
+      
+       
+
+
+          
+<div align="center">
+<img width="654" height="485" alt="I love you France 💙🤍♥️" src=https://github.com/IndecisiveDecisions/IndecisiveDecisions/blob/9eba7b73b9716fe777786195e2ab48d75a7d824f/bcb551fbffe4a24f88ecdea89bee392a.jpg />
+<div align= "bottom">
+
  
   $\color{Red}{NO!}$
  $\color{red}{I}$
