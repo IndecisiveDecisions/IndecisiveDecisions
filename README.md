@@ -80,12 +80,32 @@ $\color{Red}{You}$
 $\color{Red}{I}$
 $\color{Red}{cant..."}$
 
+$\color{Red}{"Why?}$
+$\color{Red}{damn}$
+$\color{Red}{it,}$
+$\color{Red}{Why?}$
+$\color{Red}{its}$
+$\color{Red}{not}$
+$\color{Red}{fair.."}$
+
+$\color{blue}{"You}$
+$\color{blue}{know}$
+$\color{blue}{why"}$
+
+ 
  <img width="654" height="485" alt="I love you France 💙🤍♥️" src=https://github.com/IndecisiveDecisions/IndecisiveDecisions/blob/38c225e23d8819e7a33cc341abd4f438587c49e2/10cff49562b352aed987fba45a397803%20(1).jpg>
 
 
-
-
-
+$\color{blue}{"What}$
+$\color{blue}{happened?}$
+$\color{blue}{I}$
+$\color{blue}{remember}$
+$\color{blue}{when}$
+$\color{blue}{You}$
+$\color{blue}{used}$
+$\color{blue}{to}$
+$\color{blue}{be}$
+$\color{blue}{great."}$
 
 
  
