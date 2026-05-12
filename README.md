@@ -17,18 +17,24 @@ $\color{blue}{longer}$
 $\color{blue}{a}$
 $\color{blue}{child}$
 $\color{blue}{nor}$
-$\color{red}{your}$
+$\color{blue}{your}$
 $\color{red}{little}$
 $\color{red}{brother.}$
 
 $\color{blue}{From}$
 $\color{blue}{now}$ $\color{blue}{on,}$ $\color{blue}{consider}$
 $\color{blue}{Me}$
-$\color{blue}{INDEPENDENT!"}$
+$\color{Blue}{INDEPENDENT!"}$
 
-<img width="302" height="285" alt="I love you France 💙🤍♥️" src="https://github.com/user-attachments/assets/cf80ee35-e1ee-41bf-bdc7-d1b88b3a66f2" />
+<img width="302" height="285" alt="I love you France 💙🤍♥️" src=https://github.com/IndecisiveDecisions/IndecisiveDecisions/blob/9eba7b73b9716fe777786195e2ab48d75a7d824f/bcb551fbffe4a24f88ecdea89bee392a.jpg />
 
 <div align="center">
-  <p>.....</p>
-
+ 
+  $\color{Red}{NO!}$
+ $\color{red}{I}$
+ $\color{red}{wont}$
+ $\color{red}{allow}$
+ $\color{red}{it}$
+ $\color{red}{You}$
+$\color{blue}{idiot}$
 
