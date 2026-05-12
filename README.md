@@ -1,7 +1,7 @@
 ## Hi itsme crewmate
 <div align="center">
 
-  <img width="736" height="414" alt="Boi O Boi These Feelies_" src="https://github.com/user-attachments/assets/6a9a0e45-a79e-4d67-9b92-e0d5fd5dc498" > 
+  <img width="736" height="414" alt="Boi O Boi These Feelies_" src=https://github.com/IndecisiveDecisions/IndecisiveDecisions/blob/d5431ab085dec82504f855a77487b6d8c668273a/g5zrkmgu5rlf1.png > 
 <div align="center">
 
 
@@ -20,8 +20,8 @@ $\color{blue}{a}$
 $\color{blue}{child}$
 $\color{blue}{nor}$
 $\color{blue}{your}$
-$\color{red}{little}$
-$\color{red}{brother.}$
+$\color{Red}{little}$
+$\color{Red}{brother.}$
 
 $\color{blue}{From}$
 $\color{blue}{now}$ $\color{blue}{on,}$ $\color{blue}{consider}$
@@ -31,7 +31,7 @@ $\color{Blue}{INDEPENDENT!"}$
 _________________________
 
 <div align="center">
-<img width="302" height="285" alt="I love you France 💙🤍♥️" src=https://github.com/IndecisiveDecisions/IndecisiveDecisions/blob/87144bd09e2716f4332ddb02e5a164d54b79aa83/0b061fd1940789cc7a48869021387690.jpg />
+<img width="654" height="485" alt="I love you France 💙🤍♥️" src=https://github.com/IndecisiveDecisions/IndecisiveDecisions/blob/87144bd09e2716f4332ddb02e5a164d54b79aa83/0b061fd1940789cc7a48869021387690.jpg />
 
 $\color{Blue}{"A}$
 $\color{Red}{G}$
