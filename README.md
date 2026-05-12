@@ -1,5 +1,3 @@
 ## Hi there 👋
-
-<!--
-<img width="498" height="279" alt="Hetalia" src="https://github.com/user-attachments/assets/70a743d2-8257-4288-b022-9013349faf05" />
+<img width="302" height="285" alt="I love you France 💙🤍♥️" src="https://github.com/user-attachments/assets/cf80ee35-e1ee-41bf-bdc7-d1b88b3a66f2" />
 
