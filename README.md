@@ -33,9 +33,9 @@ _________________________
 <div align="center">
 <img width="302" height="285" alt="I love you France 💙🤍♥️" src=https://github.com/IndecisiveDecisions/IndecisiveDecisions/blob/87144bd09e2716f4332ddb02e5a164d54b79aa83/0b061fd1940789cc7a48869021387690.jpg />
 
-$\color{blue}{A}$
-$\color{red}{G}$
-$\color{blue}{H!}$
+$\color{Blue}{A}$
+$\color{Red}{G}$
+$\color{Blue}{H!}$
 _________________________       
       
        
@@ -53,7 +53,7 @@ _________________________
  $\color{red}{allow}$
  $\color{red}{it}$
  $\color{red}{You}$
-$\color{blue}{idiot!}$
+$\color{red}{idiot!}$
 $\color{red}{why}$
 $\color{red}{cant}$
 $\color{red}{you}$
@@ -64,5 +64,18 @@ $\color{red}{to}$
 $\color{red}{the}$
 $\color{red}{end?}$
 
-$\color{black}{ready..}$
+$\color{black}{ready!}$
 $\color{black}{aim..}$
+
+
+<img width="654" height="485" alt="I love you France 💙🤍♥️" src=https://github.com/IndecisiveDecisions/IndecisiveDecisions/blob/f2de487361f1c5d367e79f2d506ec31363389ef9/6832a6f5db9493e2419ec456b1f76f95.jpg>
+
+
+$\color{Red}{I}$
+$\color{Red}{cant}$
+$\color{Red}{shoot}$
+$\color{Red}{you..}$
+$\color{Red}{I}$
+$\color{Red}{cant....}$
+
+
