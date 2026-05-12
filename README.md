@@ -53,5 +53,16 @@ _________________________
  $\color{red}{allow}$
  $\color{red}{it}$
  $\color{red}{You}$
-$\color{blue}{idiot}$
+$\color{blue}{idiot!}$
+$\color{red}{why}$
+$\color{red}{cant}$
+$\color{red}{you}$
+$\color{red}{follow}$
+$\color{red}{anything}$
+$\color{red}{through}$
+$\color{red}{to}$
+$\color{red}{the}$
+$\color{red}{end?}$
 
+$\color{black}{ready..}$
+$\color{black}{aim..}$
